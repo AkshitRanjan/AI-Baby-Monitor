@@ -1,3 +1,5 @@
+alarm = "";
+
 img = "";
 status = "";
 
